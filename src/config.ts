@@ -2,9 +2,9 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://astro-paper.pages.dev/",
-  author: "Ron Bronson",
-  desc: "Blog & personal site for design critic & tennis coach",
-  title: "Ron Bronson",
+  author: "Sat Naing",
+  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  title: "AstroPaper",
   ogImage: "default-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -20,39 +20,39 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/quarterback",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "https://facebook.com/ronbronson",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: false,
+    active: true,
   },
   {
     name: "Instagram",
-    href: "https://instagram.com/ronbronson,
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://linkedin.com/in/ronbronson",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:contact@ronbronson.com",
+    href: "mailto:yourmail@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/ronbronson",
+    href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Twitter`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",
