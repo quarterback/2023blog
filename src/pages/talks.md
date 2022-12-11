@@ -3,6 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "Media"
 ---
 
+<p>I've presented at over 50 tech, UX & design events around the world since 2016. My common areas of interest including leading & scaling design teams, harm & friction in the design of digital products, and a bevy of other related issues at the intersection of tech, policy, digital transformation & content. </p>
+
 # Past Talks
 -   **Nov. '22** Rosenfeld Media Civic Design Conference
 -   **Oct. '22** Portland Design Festival
