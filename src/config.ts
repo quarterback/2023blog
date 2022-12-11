@@ -1,11 +1,11 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://ronbronson.design/",
   author: "Ron Bronson",
   desc: "Personal site & blog.",
   title: "Ron Bronson",
-  ogImage: "default-og.png",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
