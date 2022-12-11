@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "posts" | "talks" | "about";
 }
 
 const { activeNav } = Astro.props;
@@ -17,6 +17,20 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container">
     <div class="top-nav-wrap">
+     <a href="/" class="logo">
+        {
+          LOGO_IMAGE.enable ? (
+            <img
+              src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
+              alt=""
+              width={LOGO_IMAGE.width}
+              height={LOGO_IMAGE.height}
+            />
+          ) : (
+            SITE.title
+          )
+        }
+      </a>
       <button class="hamburger-menu" aria-label="menu">
         <div class="icon-container flex">
           <div id="first-line"></div>
@@ -26,7 +40,6 @@ const { activeNav } = Astro.props;
       </button>
     </div>
     <nav class="display-none sm:flex">
-    <h2><a href="/">Ron Bronson</h2></a>
       <ul>
         <li>
           <a href="/posts" class={activeNav === "posts" ? "active" : ""}
