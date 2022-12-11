@@ -121,15 +121,15 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
-    name: "Steam",
-    href: "https://github.com/satnaing/astro-paper",
+    name: "Spotify",
+    href: "https://open.spotify.com/user/ronbronson?si=c8ae2b114f254bca",
     linkTitle: `${SITE.title} on Steam`,
-    active: false,
+    active: true,
   },
   {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Telegram`,
-    active: false,
+    name: "Last.fm",
+    href: "https://last.fm/user/statechampion",
+    linkTitle: `${SITE.title} on Last.fm`,
+    active: true,
   },
 ];
