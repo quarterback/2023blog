@@ -18,7 +18,6 @@ const { activeNav } = Astro.props;
   <div class="nav-container">
     <div class="top-nav-wrap">
       <button class="hamburger-menu" aria-label="menu">
-      <h2>Ron Bronson</h2>
         <div class="icon-container flex">
           <div id="first-line"></div>
           <div id="second-line"></div>
@@ -27,6 +26,7 @@ const { activeNav } = Astro.props;
       </button>
     </div>
     <nav class="display-none sm:flex">
+    <h2><a href="/">Ron Bronson</h2></a>
       <ul>
         <li>
           <a href="/posts" class={activeNav === "posts" ? "active" : ""}
