@@ -36,4 +36,5 @@ fields:
   name: ogImage
   label: ogImage
 pages:
+- src/contents/back-to-blogging-again.md
 - src/contents/the-designers-share-of-the-problem.md
