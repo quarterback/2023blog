@@ -11,6 +11,7 @@ draft: false
 ogImage: ''
 
 ---
+
 Talking about a high school tennis format is a pretty niche discussion. Nonetheless, since I began coaching high school tennis in Oregon a few years ago — as a hobby — I’ve made a side quest of activating anyone who cares to fix what’s broken about the issue that makes the sport inaccessible.
 
 First off, I don’t think there’s any malice involved in the Oregon Schools Activities Association (OSAA). Instead, I think like many western U.S. states, the format was grafted onto over time and isn’t prioritized by decision makers, who don’t see tennis as a ‘team’ sport in the same ways that basketball, football, or soccer are.
