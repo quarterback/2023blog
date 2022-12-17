@@ -10,7 +10,7 @@ He's served on boards, launched conferences, and was even a news anchor at a [co
 
 Currently based in Portland, he volunteers with Code for PDX, [ADPList](https://adplist.org/mentors/ron-bronson) & runs the local skeeball league. Offline, Ron is a high school tennis coach, amateur tea sommelier, would gleefully introduce you to [(Pesäpallo)](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/). 
 
-If you want to talk about music, [find him on Twitter.](http://twitter.com/ronbronson)
+If you want to talk about music, [find him on lastFM.](https://www.last.fm/user/statechampion)
 
 # Coaching
 
