@@ -1,12 +1,12 @@
 ---
 author: Ron Bronson
-datetime: 2022-12-16T03:49:23Z
+datetime: 2022-12-16T03:49:23.000+00:00
 title: Leaving Twitter for good
 slug: goodbye-twitter
 featured: false
 tags: []
 description: I lasted 15 years longer than I thought...
-draft: false
+draft: true
 ogImage: ''
 
 ---
@@ -18,4 +18,4 @@ I always knew it was bad and the bad eventually became worse. In every case, it 
 
 I'm all over the web still, but you can mostly find my [Tweet-like thoughts on Mastodon](https://mastodon.social/@ronbronson) for right now. 
 
-Maybe I'll finally start blogging for real. 
+Maybe I'll finally start blogging for real.
