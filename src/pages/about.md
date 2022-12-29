@@ -46,7 +46,9 @@ Across his head coaching career (43-18-1), Ron's players achievements include:
 - 8 Regional/District Champions <br>
 - 5 Regional/District Finalists <br>
 
-He was a team captain & played singles & doubles at Monmouth College, after an enlistment in the US Air Force. He was 4-year letter winner & team captain at Plainfield (NJ) HS, where he was part of 3x state playoff teams & the school's first-ever tennis conference championship his senior year playing under the tutelage of Hall of Famer & former State Coach of the Year Donald Van Blake. Later, he spent a season as an assistant coach at Aurora University. Ron also spent eight years leading tennis programs for players of all ability levels at elite summer camps throughout New England from 2002-2011, and began his high school coaching career in Colorado at two Denver-area high schools.
+He was a team captain & played singles & doubles at Monmouth College, after an enlistment in the US Air Force. He was 4-year letter winner & team captain at Plainfield (NJ) HS, where he was part of 3x state playoff teams & the school's first-ever tennis conference championship his senior year playing under the tutelage of Hall of Famer & former State Coach of the Year Donald Van Blake. 
+
+Later, he spent a season as an assistant coach at Aurora University. Ron also spent eight years leading tennis programs for players of all ability levels at elite summer camps throughout New England from 2002-2011, and began his high school coaching career in Colorado at two Denver-area high schools in 2009.
 
 # Early Years
 
