@@ -36,7 +36,7 @@ Beginning his tenure during the COVID-cancelled season of 2020, Coach Bronson's 
 
 While at Cheyenne Central (WY) HS, his girls team won Regional & Conference championships, en route to a 3rd place finish at state. He also coached boys tennis at Oregon City HS, where the team earned Academic All-State honors. 
 
-Across his head coaching career (43-18-1), he's coached:
+Across his head coaching career (43-18-1), Ron's players achievements include:
 
 - 3 Team District/Regional Championships <br>
 - 3 Team Conference/League Championships <br>
