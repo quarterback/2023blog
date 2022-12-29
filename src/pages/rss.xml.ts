@@ -24,6 +24,5 @@ export const get = () =>
         title: frontmatter.title,
         description: frontmatter.description,
         pubDate: new Date(frontmatter.datetime),
-        content: 
       })),
   });
