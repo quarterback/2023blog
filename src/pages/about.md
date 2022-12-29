@@ -13,7 +13,9 @@ If you want to talk about music, [find him on lastFM.](https://www.last.fm/user
 
 # Coaching
 
-The 2023 season is Coach Ron Bronson's 4th season at Head Varsity Girls Tennis Coach at Catlin Gabel where he led the Eagles to a state championship in 2022, the first time the event had been staged in 3 years. Beginning his tenure during the COVID-cancelled season of 2020, Coach Bronson's squad reeled off 22 dual match wins in a row and claimed back-to-back District & Conference Championships; claiming both the individual singles & doubles district titles in both seasons. Since taking over, 12 players have been named All-District and qualified a school-record 7 players for State in 2022. He was also named District 1 Coach of the Year in 2022. 
+The 2023 season is Coach Ron Bronson's 4th season at Head Varsity Girls Tennis Coach at Catlin Gabel where he led the Eagles to a state championship in 2022, the first time the event had been staged in 3 years. 
+
+Beginning his tenure during the COVID-cancelled season of 2020, Coach Bronson's squad reeled off 22 dual match wins in a row and claimed back-to-back District & Conference Championships; claiming both the individual singles & doubles district titles in both seasons. Since taking over, 12 players have been named All-District and qualified a school-record 7 players for State in 2022. He was also named District 1 Coach of the Year in 2022. 
 
 While at Cheyenne Central (WY) HS, his girls team won Regional & Conference championships, en route to a 3rd place finish at state. He also coached boys tennis at Oregon City HS, where the team earned Academic All-State honors. 
 
