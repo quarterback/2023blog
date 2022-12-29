@@ -13,8 +13,18 @@ If you want to talk about music, [find him on lastFM.](https://www.last.fm/user
 
 # Coaching
 
-Ron Bronson has coached tennis interimittently for close to 20 years. Since 2020, he's served as Head Girls Varsity Tennis Coach at Catlin Gabel School in Portland, where he led the team to the 2022 Oregon 4A-1A State Championship. As a head coach, his teams combined have claimed 3 Regional/District & Conference titles. He's coached 11x All-State selections, 16x All-District/Conference selections, in addition to a state singles champion, 2 state singles finalists, 7 District/Regional singles & doubles champions, and one Division 1 recruit. Ron dual meet record is currently 43-18-1 over 5 varsity seasons.
+The 2023 season is Coach Ron Bronson's 4th season at Head Varsity Girls Tennis Coach at Catlin Gabel where he led the Eagles to a state championship in 2022, the first time the event had been staged in 3 years. Beginning his tenure during the COVID-cancelled season of 2020, Coach Bronson's squad reeled off 22 dual match wins in a row and claimed back-to-back District & Conference Championships; claiming both the individual singles & doubles district titles in both seasons. Since taking over, 12 players have been named All-District and qualified a school-record 7 players for State in 2022. He was also named District 1 Coach of the Year in 2022. 
 
-He's previously coached boys & girls HS tennis in Oregon, Colorado, and Wyoming. He's also spent several summers at camps in New England leading tennis programs for players of all ages and ability levels, and spent a season as a collegiate assistant coach in Illinois.
+While at Cheyenne Central (WY) HS, his girls team won Regional & Conference championships, en route to a 3rd place finish at state. He also coached boys tennis at Oregon City HS, where the team earned Academic All-State honors. 
 
-After a four-year stint in the US Air Force, Ron spent one season playing singles & doubles at Monmouth College in Illinois, where was also a team captain. He was a four-year letter winner at Plainfield (NJ) High School, where he was part of three NJSIAA state playoff teams, and won a conference championship (the first tennis title in school history) his senior season when the squad matched the school-record for most wins (17), and served as a team captain.
+Across his head coaching career, he's coached:
+
+- 3 Team District/Regional Championships <br>
+- 3 Team Conference/League Championships <br>
+- 1 individual state champion <br>
+- 2 state finalists <br>
+- 4 state semi-finalists <br>
+- 8 Regional/District Champions <br>
+- 5 Regional/District Finalists <br>
+
+He was a team captain & played singles & doubles at Monmouth College, after an enlistment in the US Air Force. He was 4-year letter winner & team captain at Plainfield (NJ) HS, where he was part of 3x state playoff teams & the school's first-ever tennis conference championship his senior year. Later, he spent a season as an assistant coach at Aurora University. Ron also spent eight years leading tennis programs for players of all ability levels at elite summer camps throughout New England from 2002-2011, and began his high school coaching career in Colorado at two Denver-area high schools.
