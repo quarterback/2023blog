@@ -1,7 +1,11 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: ""
 ---
+# About Ron
+
+
+
 
 # Assorted Boards
 - City of Portland, Commissioner, Historic Landmarks Commission (Public At-Large) (2020-21)
@@ -54,4 +58,4 @@ Later, he spent a season as an assistant coach at Aurora University. Ron also sp
 
 I was born & raised in New Jersey. I first picked up a tennis racquet when I was 9, and was a 4-time varsity letter winner in HS., and also did debate. I played flugelhorn in the concert & marching bands for six years and even did choir my senior year to mix things up. I'm a scholastic alum of both Odyssey of the Mind (elementary school) & Junior State of America, where I ran for governor my junior year (but lost...) 
 
-After high school, I spent nearly four years on active duty in the U.S. Air Force, deployed in support of Operation Southern Watch in the Persian Gulf in 2000 and attended college after my enlistment was up. I built my first website in 1993 and have worked in tech since 1996, but never assumed I'd do it for a living back then. 
+After high school, I spent nearly four years on active duty in the U.S. Air Force, deployed in support of Operation Southern Watch in the Persian Gulf in 2000 and attended college after my enlistment was up. I built my first website in 1993 and have worked in tech since 1996, but never assumed I'd do it for a living back then. Beyond tennis, I also debated collegiately and was a 2x time participant at Nationals and later coached debate and I'm also responsible for ghostwriting at least one student government constitution.
