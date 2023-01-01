@@ -36,6 +36,7 @@ fields:
   name: ogImage
   label: ogImage
 pages:
+- src/contents/2022-book-list.md
 - src/contents/back-to-blogging-again.md
 - src/contents/how-does-a-guy-from-america-start-following-finnish-baseball.md
 - src/contents/improving-oregon-s-broken-high-school-tennis-format.md
