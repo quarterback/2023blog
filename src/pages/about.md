@@ -32,6 +32,9 @@ In 2004, it rained too much at summer camp rendering our outdoor courts mostly u
 
 Nearly two decades later, the sport has been played in a number of countries around the world as a pickup game or in more formal settings like gym classes, and I've worked with teachers at times to develop lesson plans to teach the sport. 
 
+**National Government Simulation**
+Back in the mid-90s, the first online community I started a live-action government simulation that began on Prodigy before it moved to AOL. After a few successful years on AOL, we rebooted again using our own message forum, expanding to a sim that included players writing legislation, running for elected office quarterly and replete with scandals and such. Even in those nascent days of the web, we had all sorts of low-level trolls and assorted fun, but it was truly a unique era and a fun project for my younger self. 
+
 # Coaching
 
 The 2023 season is Coach Ron Bronson's 4th season at Head Varsity Girls Tennis Coach at Catlin Gabel where he led the Eagles to a state championship in 2022, the first time the event had been staged in 3 years. 
