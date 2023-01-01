@@ -1,6 +1,6 @@
 ---
 author: Ron Bronson
-datetime: 2022-12-31T21:55:29-08:00
+datetime: 2022-12-31T16:55:29-08:00
 title: 2022 Book List
 slug: books-of-2022
 featured: false
