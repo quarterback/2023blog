@@ -12,8 +12,8 @@ title: "Media"
 -   **Oct. '22** Federal CX Leadership Symposium
 -   **Aug. '22** Cloudflare Design Growth Week
 -   **Aug. '22** Federation of Tax Associates Tech Conference
--   **Nov. '21:  IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)** 🇳🇴
--   **Oct '21: Design Week Colorado Springs**
+-   **Nov. '21: IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)** 🇳🇴
+-   **Oct '21:  Design Week Colorado Springs**
 -   **Oct. '20: SDN Global Conference / [The consequences in service design](https://youtu.be/JqguCFiY3KM)** 🇪🇺
 -   **Oct. '20: [USWDS Monthly](https://www.youtube.com/watch?t=1430s&v=Aw5ovySXf6o) / Avoiding deception design patterns**
 -   **Mar. '20: UX Australia Design Research / The Researcher's Role in Reducing Hostile Design** 🇦🇺
