@@ -5,19 +5,21 @@ title: "Media"
 
 <p>I've presented at over 50 tech, UX & design events around the world since 2016. My common areas of interest including leading & scaling design teams, harm & friction in the design of digital products, and a bevy of other related issues at the intersection of tech, policy, digital transformation & content. </p>
 
+-   **May. '23** ConveyUX Conference
+-   **Feb. '23** Outcome Conference, Chandigarh, India 	🇮🇳
 -   **Nov. '22** Rosenfeld Media Civic Design Conference
 -   **Oct. '22** Portland Design Festival
 -   **Oct. '22** Federal CX Leadership Symposium
 -   **Aug. '22** Cloudflare Design Growth Week
 -   **Aug. '22** Federation of Tax Associates Tech Conference
--   **Nov. '21:  IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)**
+-   **Nov. '21:  IXDA OSLO / [The Designer's Share of the Problem](https://vimeo.com/651801535)** 🇳🇴
 -   **Oct '21: Design Week Colorado Springs**
--   **Oct. '20: SDN Global Conference / [The consequences in service design](https://youtu.be/JqguCFiY3KM)**
+-   **Oct. '20: SDN Global Conference / [The consequences in service design](https://youtu.be/JqguCFiY3KM)** 🇪🇺
 -   **Oct. '20: [USWDS Monthly](https://www.youtube.com/watch?t=1430s&v=Aw5ovySXf6o) / Avoiding deception design patterns**
 -   **Mar. '20: UX Australia Design Research / The Researcher's Role in Reducing Hostile Design 🇦🇺**
 -   **July '20: [An Event Apart HCD](https://aneventapart.com/event/online-0720#s24059) / The Researcher's Role in Reducing Consequence Design**
 -   **Oct. '19: ACM SIGDOC (Portland) / Hostile Design of Digital Experiences**
--   **June '19: [UXR Conference Toronto](https://www.youtube.com/watch?v=rm6zUoyaC2Y) / Involving Stakeholders in Design Research**
+-   **June '19: [UXR Conference Toronto](https://www.youtube.com/watch?v=rm6zUoyaC2Y) / Involving Stakeholders in Design Research** 🇨🇦
 -   **May  '19: Code For America Summit (panel)**
 -   **Apr. '19: Portland Design Week (panel)**
 -   **Feb. '19: [Donut.js Portland](https://youtu.be/3nLretWklAo) / Defense Against Dark Patterns**
@@ -26,7 +28,7 @@ title: "Media"
 -   **Jan. '18: Carnegie Conference (Orlando) / Service Design in Higher Education**
 -   **Nov. '17: Confab Higher Ed / Tackling Content Migration & Maintenance**
 -   **Sep. '17: Content Migration / Confab Intensive**
--   **July '17: [Design & Content Vancouver](https://vimeo.com/228911684) / Discovery & Microinteractions: Improving the Product Toolbox**
+-   **July '17: [Design & Content Vancouver](https://vimeo.com/228911684) / Discovery & Microinteractions: Improving the Product Toolbox** 🇨🇦
 -   **May '17: Pixel Up! Cape Town** 🇿🇦
 -   **Apr. '17: Tackling Content Migration & Mantenance, University of Illinois Web Conference**
 
