@@ -8,7 +8,7 @@ tags:
 - coaching
 - tennis
 description: Suggestions for Determining a Legitimate Tennis Lineup & building culture
-draft: true
+draft: false
 ogImage: ''
 
 ---
