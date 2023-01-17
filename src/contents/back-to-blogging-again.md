@@ -1,6 +1,6 @@
 ---
 author: Ron Bronson
-datetime: 2022-12-14T05:47:32Z
+datetime: 2022-11-01T21:47:32-07:00
 title: Back to blogging again?
 slug: back-to-blogging
 featured: false
@@ -25,4 +25,4 @@ One of the things I _don't_ want to do is write _only_ about tech & design stuff
   
 Either way, the hardest part of throwing a new website up was figuring out what the purpose was. If it's about marketing yourself, then you need to write and structure the site to attract whatever the audience is. Once I realized I didn't care, and I just needed a place to get out ideas without having to worry about the site going away, it was pretty easy to spin up something and think about writing.
 
-So that's my plan here.  
+So that's my plan here.
