@@ -7,7 +7,7 @@ featured: false
 tags:
 - booklist
 description: An assortment of articles I stumbled into worth sharing
-draft: true
+draft: false
 ogImage: ''
 
 ---
