@@ -7,7 +7,7 @@ export const SITE = {
   title: "Ron Bronson",
   ogImage: "",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 40,
 };
 
 export const LOGO_IMAGE = {
