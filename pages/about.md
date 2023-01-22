@@ -14,12 +14,9 @@ If you want to talk about music, [find him on Twitter.](http://twitter.com/ronb
 
 
 # Tennis Coaching 
-As Head Girls Varsity Tennis Coach at Catlin Gabel, his 2022 team won the 4A/3A/2A/1A Oregon State championship and claimed back-to-back District & Conference championships. In three seasons, he’s had 11 All-District selections, as well as back-to-back individual singles & doubles district champions. While coaching in Wyoming, he led Cheyenne Central’s girls team to a 3rd place finish at state, and a South Regional & Conference title. ”
 
-His boys team also finished 3rd in the region and the program boasted 2 All-State selections & 7 players All-Conference. In one season at Oregon City HS, his boys team earned OSAA All-State Academic honors. He’s also coached collegiately in Illinois and high school programs in Colorado.
-
-Ron’s career dual meet record as a head coach is currently 43-18-1, with a state championship, 3 regional titles & 3 conference titles.
+Heading into his 4th year as Head Girls Varsity Tennis Coach at Catlin Gabel, he led the Eagles to the 2022 4A/3A/2A/1A Oregon State championship. Coach Bronson compiled a 62-24-1 record in 7 seasons as a HS head coach at schools in three states, with his teams also claiming three regional & district titles over that time. He's coached one individual state singles champion, 2 state singles finalists, and 4 state semi-finalists, along with numerous district & regional champions. He also spent a season as a college assistant coach in Illinois. 
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
 
-(He also coached college speech & debate for three seasons, (and started at least two college debate programs, and ghostwrote a student government constitution) but now he just occasionally a new generation of debaters to his odd judging philosophy.)
+He also coached college speech & debate for three seasons, and ghostwrote a student government constitution once.
