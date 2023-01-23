@@ -19,4 +19,4 @@ Heading into his 4th year as Head Girls Varsity Tennis Coach at Catlin Gabel, he
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
 
-He also coached college speech & debate for three seasons, and ghostwrote a student government constitution once.
+He also coached college speech & debate for three seasons. 
