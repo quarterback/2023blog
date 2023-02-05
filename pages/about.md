@@ -15,7 +15,7 @@ If you want to talk about music, [find him on Twitter.](http://twitter.com/ronb
 
 # Tennis Coaching 
 
-Heading into his 4th year as Head Girls Varsity Tennis Coach at Catlin Gabel, he led the Eagles to the 2022 4A/3A/2A/1A OSAA state title following an undefeated 2021 season as the top 3A Oregon team. Coach Bronson compiled a 62-24-1 record in 7 seasons, with as a HS head coach at schools in three states. He's coached one individual state singles champion, 2 state singles finalists, and 4 state semi-finalists, along with numerous district & regional champions. He also spent a season as a college assistant coach in Illinois. 
+Heading into his 4th year as Head Girls Varsity Tennis Coach at Catlin Gabel, he led the Eagles to the 2022 4A/3A/2A/1A OSAA state title -- the 7th in school history -- following up on an undefeated COVID-shortened 2021 season where the squad finished as Oregon's top 3A team. Coach Bronson compiled a 62-24-1 record in 7 seasons, with as a HS head coach at schools in Colorado, Oregon and Wyoming. In Wyoming, he spent a season with Cheyenne Central HS leading the girls team to a Regional title & a 3rd-place finish at state and coached an individual state champion. He also spent a season as a college assistant coach at Aurora University in Illinois.
 
 As a player, Ron was a four-year letter winner, captain & all-area doubles honorable mention selection his senior year at Plainfield (NJ) High School, where he was part of three consecutive NJSIAA state playoff teams and a conference championship in 1997, which was the first boys tennis conference title in school history. He played one season of college tennis at Monmouth (IL) College in 2003, where he played both singles (4/5/6) & doubles (2) and served as a team captain.
 
