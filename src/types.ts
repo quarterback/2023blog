@@ -1,14 +1,12 @@
-export interface Frontmatter {
-  title: string;
-  ogImage?: string;
-  description: string;
+export type Site = {
+  website: string;
   author: string;
-  datetime: string;
-  slug: string;
-  featured: boolean;
-  draft: boolean;
-  tags: string[];
-}
+  desc: string;
+  title: string;
+  ogImage: string;
+  lightAndDarkMode: boolean;
+  postPerPage: number;
+};
 
 export type SocialObjects = {
   name: SocialMedia;
@@ -40,4 +38,5 @@ export type SocialMedia =
   | "Reddit"
   | "Skype"
   | "Steam"
-  | "Telegram";
+  | "Telegram"
+  | "Mastodon";
