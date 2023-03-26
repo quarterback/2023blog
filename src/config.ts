@@ -132,4 +132,10 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Last.fm`,
     active: true,
   },
+  {
+    name: "Mastodon",
+    href: "https://mastodon.social/@ronbronson",
+    linkTitle: `${SITE.title} on Mastodon`,
+    active: false,
+  },
 ];
