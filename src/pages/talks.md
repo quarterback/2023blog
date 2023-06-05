@@ -5,6 +5,7 @@ title: "Media"
 
 <p>I've presented at over 50 tech, UX & design events around the world since 2016. My common areas of interest including leading & scaling design teams, harm & friction in the design of digital products, and a bevy of other related issues at the intersection of tech, policy, digital transformation & content. </p>
 
+-   **May  '23** **A Parliament of Neighbors**, [Exhibit at Chimaera.site/AFK](https://www.chimaera.site/afk)
 -   **May. '23** ConveyUX Conference
 -   **Feb. '23** Outcome Conference, Chandigarh, India 🇮🇳
 -   **Nov. '22** Rosenfeld Media Civic Design Conference
