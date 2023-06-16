@@ -3,7 +3,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://ronbronson.design/",
   author: "Ron Bronson",
-  desc: "Personal site & blog",
+  desc: "Design leader, tennis coach, global speaker & strategist with an interest in policy, tech & civic engagement.",
   title: "Ron Bronson",
   ogImage: "",
   lightAndDarkMode: true,
@@ -44,7 +44,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:ron@ronbronson.com",
+    href: "mailto:drachma1@pm.me",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
@@ -91,10 +91,10 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
-    name: "CodePen",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on CodePen`,
-    active: false,
+    name: "Newsletter",
+    href: "https://ronbronson.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile",
+    linkTitle: `${SITE.title} on Substack`,
+    active: true,
   },
   {
     name: "Discord",
@@ -136,6 +136,6 @@ export const SOCIALS: SocialObjects = [
     name: "Mastodon",
     href: "https://mastodon.social/@ronbronson",
     linkTitle: `${SITE.title} on Mastodon`,
-    active: false,
+    active: true,
   },
 ];

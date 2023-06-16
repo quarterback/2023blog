@@ -3,7 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "Media"
 ---
 
-<p>I've presented at over 50 tech, UX & design events around the world since 2016. My common areas of interest including leading & scaling design teams, harm & friction in the design of digital products, and a bevy of other related issues at the intersection of tech, policy, digital transformation & content. </p>
+<p>
+Ron Bronson is a seasoned design leader and international speaker, having presented at over 50 tech, UX, and design events worldwide since 2016. His areas of expertise include leading and scaling design teams, addressing harm and friction in digital product design, and exploring the intersection of tech, policy, digital transformation, and content.</p>
 
 -   **May  '23** **A Parliament of Neighbors**, [Exhibit at Chimaera.site/AFK](https://www.chimaera.site/afk)
 -   **May. '23** ConveyUX Conference

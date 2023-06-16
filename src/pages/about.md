@@ -2,21 +2,24 @@
 layout: ../layouts/AboutLayout.astro
 title: ""
 ---
-# About Ron
-
-
+# Currently Reading
+<div id="literal-widget" handle="ron" status="IS_READING" layout="row"></div>
+<script src="https://literal.club/js/widget.js"></script>
 
 
 # Assorted Boards
+- AIGA Portland, President-elect (2023), IxDA Portland, Co-organizer
+- KBOO-FM, News Anchor (2020-present)
 - City of Portland, Commissioner, Historic Landmarks Commission (Public At-Large) (2020-21)
 - AIGA Indianapolis, VP of Partnerships (2017-18), IxDA Indianapolis, Organizer (2016-18)
-- Organizer, Code for America brigade (Bloomington, IN)
+- Co-Organizer, Code for America brigade (Bloomington, IN)
 - WFHB-FM (Community Radio Station), Board Member (2017-18) and News Anchor (2016-18)
 - Future Wyoming, Policy Director & Co-Founder (2007-11)
 
 # Projects
 
-Here are a smattering of projects I've worked on the past few years that I feel like talking about...(*we're not talking about the tea brand & the shoe line*)
+I've worked on a bevy of projects in my day job, but I'm not positioned to write about them here & I'm not looking for a job.  
+This is just an outline of assorted projects.
 
 **Indianapolis Design Week**<br>
 In 2017, I launched the first Indiana Design Week, which was a decentralized event that allowed anyone working in design around the state to add their events to a central calendar, as an opportunity to grow design awareness statewide. After the first success of the first extremely DIY event, we centralized it and turned the event into Indianapolis Design Week, a year later. I left the state in 2018, but Indy Design Week continues to operate under inspired leadership and a vibrant board. 
