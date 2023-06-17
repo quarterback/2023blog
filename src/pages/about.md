@@ -2,9 +2,6 @@
 layout: ../layouts/AboutLayout.astro
 title: ""
 ---
-# Currently Reading
-<div id="literal-widget" handle="ron" status="IS_READING" layout="row"></div>
-<script src="https://literal.club/js/widget.js"></script>
 
 
 # Assorted Boards
