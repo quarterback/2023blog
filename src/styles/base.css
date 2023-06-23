@@ -20,6 +20,8 @@
     --color-card-muted: 68, 75, 85; /* Dark muted card color */
     --color-border: 57, 64, 74; /* Dark border color */
   }
+}
+
   #sun-svg,
   html[data-theme="dark"] #moon-svg {
     display: none;
