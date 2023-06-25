@@ -20,58 +20,28 @@ const sortedPosts = getSortedPosts(posts);
   <main id="main-content">
     <section id="hero">
       <p>
-        I’m a Design Director based in Portland, Oregon. I’ve spent the bulk of my professional career working online, which is a wild proposition to my childhood self. Outside of technology, I run a local skeeball league, I coach high school tennis, and nerd out on a bevy of random topics like Finnish baseball. You can find me at conferences around the world, or occasionally, on a podcast or two. 
-      </p>
+        I write & speaking on anti-manipulation engineering, consequence design, and amplifying the need for product teams to focus on improving the service design of everyday experiences. 
+
+        Beyond my research interests, I'm a board member and volunteer for several local & civic organizations including AIGA Portland, the local chapter of the international Interaction Design Association, and I coach high school tennis every spring. 
       <div class="social-wrapper">
         <div class="social-links">Social:</div>
         <Socials />
+      
       </div>
+      <div class="social-wrapper">
+<p>
+ <div class="social-links"><b>Currently Reading</b>:</div>
+<div id="literal-widget" handle="ron" status="IS_READING" layout="row"></div>
+<script src="https://literal.club/js/widget.js"></script>
+
+      </p></div> 
     </section>
 
     <Hr />
 
     <section id="featured">
     <section id="recent-posts">
-      <h2>Recent Posts</h2>
-      <a
-        target="_blank"
-        href="https://politepol.com/fd/6l4WaEdRDO0J"
-        class="rss-link"
-        aria-label="rss feed"
-        title="RSS Feed"
-      >
-        <svg xmlns="http://www.w3.org/2000/svg" class="rss-icon"
-          ><path
-            d="M19 20.001C19 11.729 12.271 5 4 5v2c7.168 0 13 5.832 13 13.001h2z"
-          ></path><path
-            d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
-          ></path><circle cx="6" cy="18" r="2"></circle>
-        </svg>
-      </a>
-      <ul>
-        {
-          sortedPosts.map(
-            ({ frontmatter }, index) =>
-              index < 4 && (
-                <Card
-                  href={`/posts/${slugify(frontmatter)}`}
-                  post={frontmatter}
-                  secHeading={false}
-                />
-              )
-          )
-        }
-      </ul>
-      <div class="all-posts-btn-wrapper">
-        <LinkButton href="/posts">
-          All Posts
-          <svg xmlns="http://www.w3.org/2000/svg"
-            ><path
-              d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
-            ></path>
-          </svg>
-        </LinkButton>
-      </div>
+      
     </section>
   </main>
 
