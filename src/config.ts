@@ -3,7 +3,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://ronbronson.design/",
   author: "Ron Bronson",
-  desc: "Design leader, tennis coach, global speaker & strategist with an interest in policy, tech & civic engagement.",
+  desc: "Design leader, tennis coach, global speaker, and strategist passionate about policy, technology, and civic engagement.",
   title: "Ron Bronson",
   ogImage: "",
   lightAndDarkMode: true,
