@@ -1,41 +1,32 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import LinkButton from "@components/LinkButton.astro";
 import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
+import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import slugify from "@utils/slugify";
-import type { Frontmatter } from "src/types";
-import Socials from "@components/Socials.astro";
+import { SOCIALS } from "@config";
 
-const posts = await Astro.glob<Frontmatter>("../contents/**/*.md");
+const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
+const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
+
+const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
-      <p>
-      Public interest design leader. 
-      </p>
-      <div class="social-wrapper">
-        <div class="social-links">Social:</div>
-        <Socials />
-      </div>
-    </section>
-
-    <Hr />
-
-    <section id="featured">
-    <section id="recent-posts">
-      <h2>Recent Posts</h2>
-      <a
+      
+     <!-- <a
         target="_blank"
-        href="https://politepol.com/fd/6l4WaEdRDO0J"
+        href="/rss.xml"
         class="rss-link"
         aria-label="rss feed"
         title="RSS Feed"
@@ -46,16 +37,63 @@ const sortedPosts = getSortedPosts(posts);
           ></path><path
             d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
           ></path><circle cx="6" cy="18" r="2"></circle>
-        </svg>
-      </a>
+        </svg> -->
+      </a> 
+      <img src="/images/ron_pic.jpg"><br />
+      <p>
+        I'm a civic-minded designer with deep roots in strategy. 
+        These days, I'm Head of Design at 18F.   
+       I launched events including Indianapolis Design Week & Aggregate Conference and have been on stage globally speaking about relevant topics in design, tech & policy.
+        My research interests include work on service design and its relationship to trust & safety in the design and innovation of online platforms. When I'm not staring at screens, I'm an active member of a wide-range of community-based organizations, including serving on a few boards. I also coach a successful high school tennis team every spring.
+      </p>
+      <p>
+       
+      </p>
+      {
+        // only display if at least one social link is enabled
+        socialCount > 0 && (
+          <div class="social-wrapper">
+            <div class="social-links">Current Reading:</div>
+            <div id="literal-widget" handle="ron" status="IS_READING" layout="row"></div>
+<script src="https://literal.club/js/widget.js"></script>
+
+          </div>
+        )
+      }
+    </section>
+
+    <Hr />
+<!-- 
+    {
+      featuredPosts.length > 0 && (
+        <>
+          <section id="featured">
+            <h2>Featured</h2>
+            <ul>
+              {featuredPosts.map(({ data }) => (
+                <Card
+                  href={`/posts/${slugify(data)}`}
+                  frontmatter={data}
+                  secHeading={false}
+                />
+              ))}
+            </ul>
+          </section>
+          <Hr />
+        </>
+      )
+    }
+
+    <section id="recent-posts">
+      <h2>Recent Posts</h2>
       <ul>
         {
           sortedPosts.map(
-            ({ frontmatter }, index) =>
+            ({ data }, index) =>
               index < 4 && (
                 <Card
-                  href={`/posts/${slugify(frontmatter)}`}
-                  post={frontmatter}
+                  href={`/posts/${slugify(data)}`}
+                  frontmatter={data}
                   secHeading={false}
                 />
               )
@@ -73,7 +111,7 @@ const sortedPosts = getSortedPosts(posts);
         </LinkButton>
       </div>
     </section>
-  </main>
+  </main> -->
 
   <Footer />
 </Layout>
@@ -81,37 +119,37 @@ const sortedPosts = getSortedPosts(posts);
 <style>
   /* ===== Hero Section ===== */
   #hero {
-    @apply pt-8;
+    @apply pb-6 pt-8;
   }
   #hero h1 {
-    @apply inline-block font-bold my-4 sm:my-8 text-3xl sm:text-5xl;
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
   }
   #hero .rss-link {
     @apply mb-6;
   }
   #hero .rss-icon {
-    @apply h-6 w-6 scale-110 sm:scale-125 mb-2 sm:mb-3 fill-skin-accent;
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
   }
   #hero p {
     @apply my-2;
   }
   .social-wrapper {
-    @apply flex flex-col sm:flex-row sm:items-center mt-4 mb-6;
+    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
   }
   .social-links {
-    @apply whitespace-nowrap mr-2 sm:mb-0 mb-1;
+    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
 
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
   #recent-posts {
-    @apply pt-12 pb-6;
+    @apply pb-6 pt-12;
   }
   #featured h2,
   #recent-posts h2 {
-    @apply font-semibold text-2xl tracking-wide;
+    @apply text-2xl font-semibold tracking-wide;
   }
   .all-posts-btn-wrapper {
-    @apply text-center my-8;
+    @apply my-8 text-center;
   }
 </style>
