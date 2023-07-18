@@ -8,7 +8,6 @@ Ron Bronson is a seasoned design leader and international speaker, having presen
 
 # Past Talks
 -----------------
-*   **May ‘23** **A Parliament of Neighbors**, [Exhibit at Chimaera.site/AFK](https://www.chimaera.site/afk)
 *   **May. ‘23** ConveyUX Conference
 *   **Feb. ‘23** Outcome Conference, Chandigarh, India 🇮🇳
 *   **Nov. ‘22** Rosenfeld Media Civic Design Conference
